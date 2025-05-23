@@ -28,6 +28,10 @@ Para cada elemento do array adiciona um separador
 
 Separa o array conforme os índices
 
-## Método Slice
+## Método Splice
 
 Remove ou substitui elementos do array conforme os índices
+
+## Método concat
+
+Combina dois ou mais arrays
