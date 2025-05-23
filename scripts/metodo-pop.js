@@ -9,4 +9,4 @@ let estiloRemovido = playlist.pop();
 console.log("Depois do pop:");
 console.table(playlist);
 
-console.log("Estilo removido");
+console.log("Estilo removido: ", estiloRemovido);
