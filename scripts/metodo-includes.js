@@ -1,0 +1,1 @@
+let playlist = ['Funk', 'Hip-Hop', 'Pop'];
